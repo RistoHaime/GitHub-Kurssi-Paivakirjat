@@ -2,7 +2,7 @@
 
 - Tekijänä Risto Haime
 
-Tämässä repositoriossa on päiväkirjoja kurssin tehtävistä. Linkit suoraan päiväkirjoihin.
+Tässä repositoriossa on päiväkirjoja kurssin tehtävistä. Linkit suoraan päiväkirjoihin.
 
 [Päiväkirja1](paivakirja1.md) tehtävät 2-4
 
@@ -12,3 +12,4 @@ Tämässä repositoriossa on päiväkirjoja kurssin tehtävistä. Linkit suoraan
 [päiväkirja3](paivakirja3.md) tehtävä 6-7
 
 [Tehtävä Repositorio](https://github.com/RistoHaime/GitHub-Kurssi)
+
