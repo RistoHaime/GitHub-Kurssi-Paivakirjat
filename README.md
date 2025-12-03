@@ -8,4 +8,7 @@ Tämässä repositoriossa on päiväkirjoja kurssin tehtävistä. Linkit suoraan
 
 [päiväkirja2](paivakirja2.md) tehtävä 5
 
+
 [päiväkirja3](paivakirja3.md) tehtävä 6-7
+
+[Tehtävä Repositorio](https://github.com/RistoHaime/GitHub-Kurssi)
